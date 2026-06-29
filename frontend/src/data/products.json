@@ -1,0 +1,1639 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "The Monarch",
+      "type": "Aviator",
+      "price": "$59.99",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/monarch/front.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&q=80"
+        },
+        {
+          "label": "Top",
+          "image": "https://images.unsplash.com/photo-1509695507497-903c140c43b0?w=600&q=80"
+        },
+        {
+          "label": "3/4 View",
+          "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&q=80"
+        },
+        {
+          "label": "Folded",
+          "image": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=600&q=80"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 2,
+      "name": "The Visionary",
+      "type": "Round Frame",
+      "price": "$47.99",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/visionary/front.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=600&q=80"
+        },
+        {
+          "label": "Top",
+          "image": "https://images.unsplash.com/photo-1508296695146-257a814070b4?w=600&q=80"
+        },
+        {
+          "label": "3/4 View",
+          "image": "https://images.unsplash.com/photo-1585076800441-39b3c3c3e32f?w=600&q=80"
+        },
+        {
+          "label": "Folded",
+          "image": "https://images.unsplash.com/photo-1622445275576-721325977df9?w=600&q=80"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 3,
+      "name": "The Enigma",
+      "type": "Cat-Eye",
+      "price": "$64.99",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/enigma/front.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "https://images.unsplash.com/photo-1473496169904-658ba7574b0d?w=600&q=80"
+        },
+        {
+          "label": "Top",
+          "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&q=80"
+        },
+        {
+          "label": "3/4 View",
+          "image": "https://images.unsplash.com/photo-1577803118522-7b72a50f7e9f?w=600&q=80"
+        },
+        {
+          "label": "Folded",
+          "image": "https://images.unsplash.com/photo-1614715838608-dd527c46231d?w=600&q=80"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 4,
+      "name": "The Classic",
+      "type": "Wayfarer",
+      "price": "$41.99",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/classic/front.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "https://images.unsplash.com/photo-1588776814546-ec7e1c4a9f4b?w=600&q=80"
+        },
+        {
+          "label": "Top",
+          "image": "https://images.unsplash.com/photo-1585076800441-39b3c3c3e32f?w=600&q=80"
+        },
+        {
+          "label": "3/4 View",
+          "image": "https://images.unsplash.com/photo-1622445275576-721325977df9?w=600&q=80"
+        },
+        {
+          "label": "Folded",
+          "image": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=600&q=80"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 5,
+      "name": "Emporio Armani Day & Night",
+      "type": "Round Frame",
+      "price": "₹1599",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/armani/front.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "/src/assets/products/armani/side.jpg"
+        },
+        {
+          "label": "3/4 View",
+          "image": "/src/assets/products/armani/angle.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/armani/detail.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 6,
+      "name": "Oakley Polarised Sport",
+      "type": "Sports Sunglasses",
+      "price": "₹999",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/oakley-sport/front.png"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/oakley-sport/detail.png"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/oakley-sport/model.png"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/oakley-sport/packaging.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 7,
+      "name": "Carrera Round Model",
+      "type": "Round Sunglasses",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/carrera-round/front.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/carrera-round/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/carrera-round/model.jpg"
+        },
+        {
+          "label": "Comparison",
+          "image": "/src/assets/products/carrera-round/comparison.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 8,
+      "name": "Lacoste Square Model",
+      "type": "Square Sunglasses",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/lacoste-square/front.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/lacoste-square/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/lacoste-square/model.png"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 9,
+      "name": "Celine Oval Sunglasses",
+      "type": "Oval Sunglasses",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/celine-oval/front.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/celine-oval/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/celine-oval/model.jpg"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/celine-oval/packaging.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 10,
+      "name": "Marc Jacobs Geometric Sunglasses",
+      "type": "Geometric Sunglasses",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/marc-jacobs-geometric/front.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/marc-jacobs-geometric/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/marc-jacobs-geometric/model.jpg"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/marc-jacobs-geometric/packaging.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 11,
+      "name": "Mont Blanc Premium Frame",
+      "type": "Unisex Frame",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/mont-blanc-frame/front.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/mont-blanc-frame/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/mont-blanc-frame/model.jpg"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/mont-blanc-frame/packaging.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 12,
+      "name": "Prada Premium Sunglasses",
+      "type": "Unisex Sunglasses",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/prada-premium-sunglasses/front.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "/src/assets/products/prada-premium-sunglasses/side.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/prada-premium-sunglasses/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/prada-premium-sunglasses/model.jpg"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/prada-premium-sunglasses/packaging.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 13,
+      "name": "Louis Vuitton Ladies Sunglasses",
+      "type": "Ladies Sunglasses",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/louis-vuitton-ladies/front.png"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/louis-vuitton-ladies/detail.png"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/louis-vuitton-ladies/model.png"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/louis-vuitton-ladies/packaging.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 14,
+      "name": "Moscot Originals Black Grey",
+      "type": "Unisex Sunglasses",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/moscot-black-grey/front.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/moscot-black-grey/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/moscot-black-grey/model.jpg"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/moscot-black-grey/packaging.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 15,
+      "name": "Moscot Originals Brown Transparent",
+      "type": "Unisex Sunglasses",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/moscot-brown-transparent/front.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/moscot-brown-transparent/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/moscot-brown-transparent/model.jpg"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/moscot-brown-transparent/packaging.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 16,
+      "name": "David Beckham Sunglasses",
+      "type": "Premium Sunglasses",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/david-beckham/front.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/david-beckham/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/david-beckham/model.png"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 17,
+      "name": "BMW Polarised Sunglasses",
+      "type": "Unisex Sunglasses",
+      "price": "₹1800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/bmw/front.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/bmw/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/bmw/model.jpg"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/bmw/packaging.jpg"
+        }
+      ],
+      "category": "eyewear"
+    },
+    {
+      "id": 18,
+      "name": "Rado Premium Watch",
+      "type": "Luxury Watch",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/watches/rado/front.jpg"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/watches/rado/detail.jpg"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/watches/rado/model.jpg"
+        },
+        {
+          "label": "Color Variants",
+          "image": "/src/assets/products/watches/rado/color.jpg"
+        }
+      ],
+      "category": "watches"
+    },
+    {
+      "id": 19,
+      "name": "Jacob & Co Godfather Black Belt",
+      "category": "watches",
+      "type": "Luxury Watch",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/watches/jacob-co-black/front.png"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/watches/jacob-co-black/detail.png"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/watches/jacob-co-black/model.png"
+        },
+        {
+          "label": "Color Variant",
+          "image": "/src/assets/products/watches/jacob-co-black/color.png"
+        },
+        {
+          "label": "Back",
+          "image": "/src/assets/products/watches/jacob-co-black/back.png"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Jacob & Co Godfather Brown Belt",
+      "category": "watches",
+      "type": "Luxury Watch",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/watches/jacob-co-brown/front.png"
+        },
+        {
+          "label": "Back",
+          "image": "/src/assets/products/watches/jacob-co-brown/back.png"
+        },
+        {
+          "label": "Belt",
+          "image": "/src/assets/products/watches/jacob-co-brown/belt.png"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Vacheron Constantin Historiques 1921",
+      "category": "watches",
+      "type": "Luxury Watch",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/watches/vacheron-constantin/front.png"
+        },
+        {
+          "label": "Close Up",
+          "image": "/src/assets/products/watches/vacheron-constantin/closeup.png"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/watches/vacheron-constantin/detail.png"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/watches/vacheron-constantin/model.png"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/watches/vacheron-constantin/packaging.png"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Sevenfriday Yellow Series",
+      "category": "watches",
+      "type": "Luxury Watch",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/watches/sevenfriday/front.png"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/watches/sevenfriday/detail.png"
+        },
+        {
+          "label": "Model",
+          "image": "/src/assets/products/watches/sevenfriday/model.png"
+        },
+        {
+          "label": "Side",
+          "image": "/src/assets/products/watches/sevenfriday/side.png"
+        },
+        {
+          "label": "Packaging",
+          "image": "/src/assets/products/watches/sevenfriday/packaging.png"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Rado Premium Watch",
+      "category": "watches",
+      "type": "Luxury Watch",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/watches/rado2/front.png"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/watches/rado2/detail.png"
+        },
+        {
+          "label": "Dial",
+          "image": "/src/assets/products/watches/rado2/dial.png"
+        },
+        {
+          "label": "Side View",
+          "image": "/src/assets/products/watches/rado2/side.png"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Jacob & Co Bugatti Chiron",
+      "category": "watches",
+      "type": "Luxury Watch",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Black Variant",
+          "image": "/src/assets/products/watches/bugatti/front.png"
+        },
+        {
+          "label": "White Variant",
+          "image": "/src/assets/products/watches/bugatti/white.png"
+        },
+        {
+          "label": "Blue Variant",
+          "image": "/src/assets/products/watches/bugatti/blue.png"
+        },
+        {
+          "label": "Rose Gold Variant",
+          "image": "/src/assets/products/watches/bugatti/rosegold.png"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Tissot PRX Powermatic 80",
+      "category": "watches",
+      "type": "Luxury Watch",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/watches/tissot/front.png"
+        },
+        {
+          "label": "Box",
+          "image": "/src/assets/products/watches/tissot/box.png"
+        },
+        {
+          "label": "Wrist View",
+          "image": "/src/assets/products/watches/tissot/wrist.png"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/watches/tissot/detail.png"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Cartier Panthère Rimless",
+      "category": "eyewear",
+      "type": "Luxury Eyewear",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/cartier-panthere/front.jpg"
+        },
+        {
+          "label": "Angle",
+          "image": "/src/assets/products/cartier-panthere/angle.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "/src/assets/products/cartier-panthere/side.jpg"
+        },
+        {
+          "label": "Box",
+          "image": "/src/assets/products/cartier-panthere/box.jpg"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Cartier Panthère Silver Rimless",
+      "category": "eyewear",
+      "type": "Luxury Eyewear",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/cartier-panthere-silver/front.jpg"
+        },
+        {
+          "label": "Angle",
+          "image": "/src/assets/products/cartier-panthere-silver/angle.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "/src/assets/products/cartier-panthere-silver/side.jpg"
+        },
+        {
+          "label": "Box",
+          "image": "/src/assets/products/cartier-panthere-silver/box.jpg"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Cartier Panthère Gold Brown",
+      "category": "eyewear",
+      "type": "Luxury Eyewear",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/cartier-panthere-brown/front.jpg"
+        },
+        {
+          "label": "Angle",
+          "image": "/src/assets/products/cartier-panthere-brown/angle.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "/src/assets/products/cartier-panthere-brown/side.jpg"
+        },
+        {
+          "label": "Box",
+          "image": "/src/assets/products/cartier-panthere-brown/box.jpg"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Prada Milano Sport",
+      "category": "eyewear",
+      "type": "Luxury Eyewear",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/prada-milano/front.jpg"
+        },
+        {
+          "label": "Angle",
+          "image": "/src/assets/products/prada-milano/angle.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "/src/assets/products/prada-milano/side.jpg"
+        },
+        {
+          "label": "Box",
+          "image": "/src/assets/products/prada-milano/box.jpg"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Ray-Ban Classic",
+      "category": "eyewear",
+      "type": "Luxury Eyewear",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Black Front",
+          "image": "/src/assets/products/rayban-classic/front.jpg"
+        },
+        {
+          "label": "Black Angle",
+          "image": "/src/assets/products/rayban-classic/angle.jpg"
+        },
+        {
+          "label": "Green Front",
+          "image": "/src/assets/products/rayban-classic/side.jpg"
+        },
+        {
+          "label": "Green Angle",
+          "image": "/src/assets/products/rayban-classic/box.jpg"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Ray-Ban Transparent",
+      "category": "eyewear",
+      "type": "Luxury Eyewear",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/rayban-transparent/front.jpg"
+        },
+        {
+          "label": "Angle",
+          "image": "/src/assets/products/rayban-transparent/angle.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "/src/assets/products/rayban-transparent/side.jpg"
+        },
+        {
+          "label": "Box",
+          "image": "/src/assets/products/rayban-transparent/box.jpg"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Ray-Ban Havana",
+      "category": "eyewear",
+      "type": "Luxury Eyewear",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/rayban-havana/front.jpg"
+        },
+        {
+          "label": "Angle",
+          "image": "/src/assets/products/rayban-havana/angle.jpg"
+        },
+        {
+          "label": "Side",
+          "image": "/src/assets/products/rayban-havana/side.jpg"
+        },
+        {
+          "label": "Box",
+          "image": "/src/assets/products/rayban-havana/box.jpg"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Louis Vuitton Afternoon Swim",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/lv-afternoon-swim/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Louis Vuitton Pacific Chill",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/lv-pacific-chill/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Louis Vuitton Ombre Nomade",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/lv-ombre-nomade/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Louis Vuitton Pur Oud",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/lv-pur-oud/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Tiziana Terenzi Telea",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/tiziana-terenzi-telea/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Tiziana Terenzi Orza",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/tiziana-terenzi-orza/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Tiziana Terenzi Halley",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/tiziana-terenzi-halley/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Tiziana Terenzi Hale Bopp",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/tiziana-terenzi-hale-bopp/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "INITIO Oud For Greatness",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/initio-oud-for-greatness/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "BDK Parfums Citrus Riviera",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/bdk-citrus-riviera/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Amouage Reasons",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/amouage-reasons/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Clive Christian No.1",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/clive-christian-no1/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Amouage Lustre",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/amouage-lustre/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Michael Kors Sexy Ruby",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/michael-kors-sexy-ruby/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Clive Christian X",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/clive-christian-x/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Roja Elysium",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/roja-elysium/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Clive Christian 1872",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/clive-christian-1872/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Amouage Interlude",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/amouage-interlude/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Amouage Outlands",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/amouage-outlands/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "BDK Parfums Tabac Rose",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/bdk-tabac-rose/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Kajal Dahab",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/kajal-dahab/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Liquides Imaginaires B\u00eate Humaine",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/liquides-imaginaires-bete-humaine/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Roja Parfums Lakm\u00e9",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/roja-lakme/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Parfums de Marly Cassili",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/pdm-cassili/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Kayali Lovefest Burning Cherry",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/kayali-burning-cherry/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Nishane Karagoz",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/nishane-karagoz/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Nishane Vain & Na\u00efve",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/nishane-vain-naive/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Parfums de Marly Pegasus",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/pdm-pegasus/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Parfums de Marly Nisean",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/pdm-nisean/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Nishane Favonius",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/nishane-favonius/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Kayali Oudgasm Tobacco Oud",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/kayali-tobacco-oud/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Nishane Afrika-Olifant",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/nishane-afrika-olifant/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Parfums de Marly Oriana",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/pdm-oriana/front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Nishane Ege / Aigaio Extrait de Parfum",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/nishane-ege/front.png"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Parfums de Marly Greenley",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/pdm-greenley/front.png"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Nishane Zenne Extrait de Parfum",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/nishane-zenne/front.png"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Nishane Nanshe Extrait de Parfum",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/nishane-nanshe/front.png"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Parfums de Marly Haltane",
+      "category": "perfumes",
+      "type": "Luxury Perfume",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/perfumes/pdm-haltane/front.png"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Christian Dior Rectangular Sunglasses",
+      "category": "eyewear",
+      "type": "Luxury Eyewear",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Front",
+          "image": "/src/assets/products/christian-dior-rectangular/front.png"
+        },
+        {
+          "label": "Detail",
+          "image": "/src/assets/products/christian-dior-rectangular/detail.png"
+        },
+        {
+          "label": "Side",
+          "image": "/src/assets/products/christian-dior-rectangular/side.png"
+        },
+        {
+          "label": "Box",
+          "image": "/src/assets/products/christian-dior-rectangular/box.png"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Birkenstock Black Collection",
+      "category": "shoes",
+      "type": "Sandals",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Style 1",
+          "image": "/src/assets/products/shoes/birkenstock-black/img1.jpg"
+        },
+        {
+          "label": "Style 2",
+          "image": "/src/assets/products/shoes/birkenstock-black/img2.jpg"
+        },
+        {
+          "label": "Style 3",
+          "image": "/src/assets/products/shoes/birkenstock-black/img3.jpg"
+        },
+        {
+          "label": "Style 4",
+          "image": "/src/assets/products/shoes/birkenstock-black/img4.jpg"
+        },
+        {
+          "label": "Group",
+          "image": "/src/assets/products/shoes/birkenstock-black/img5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Davik Sandals Collection",
+      "category": "shoes",
+      "type": "Sandals",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Black Detail",
+          "image": "/src/assets/products/shoes/davik-sandals/img1.jpg"
+        },
+        {
+          "label": "Blue Detail",
+          "image": "/src/assets/products/shoes/davik-sandals/img2.jpg"
+        },
+        {
+          "label": "Black Front",
+          "image": "/src/assets/products/shoes/davik-sandals/img3.jpg"
+        },
+        {
+          "label": "Blue Front",
+          "image": "/src/assets/products/shoes/davik-sandals/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Gucci Loafers Collection",
+      "category": "shoes",
+      "type": "Loafers",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Box",
+          "image": "/src/assets/products/shoes/gucci-loafers/img1.jpg"
+        },
+        {
+          "label": "Black & Brown Group",
+          "image": "/src/assets/products/shoes/gucci-loafers/img2.jpg"
+        },
+        {
+          "label": "Brown Pair",
+          "image": "/src/assets/products/shoes/gucci-loafers/img3.jpg"
+        },
+        {
+          "label": "Black Pair",
+          "image": "/src/assets/products/shoes/gucci-loafers/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Loro Piana Slip-On Collection",
+      "category": "shoes",
+      "type": "Slip-Ons",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Brown Pair",
+          "image": "/src/assets/products/shoes/loro-piana/img1.jpg"
+        },
+        {
+          "label": "Black Pair",
+          "image": "/src/assets/products/shoes/loro-piana/img2.jpg"
+        },
+        {
+          "label": "Olive/Brown Pair",
+          "image": "/src/assets/products/shoes/loro-piana/img3.jpg"
+        },
+        {
+          "label": "Box",
+          "image": "/src/assets/products/shoes/loro-piana/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Nike Zoom Running Shoes",
+      "category": "shoes",
+      "type": "Running Shoes",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Black Style",
+          "image": "/src/assets/products/shoes/nike-zoom/img1.jpg"
+        },
+        {
+          "label": "Teal/White Style",
+          "image": "/src/assets/products/shoes/nike-zoom/img2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Onitsuka Tiger Blue & Grey Collection",
+      "category": "shoes",
+      "type": "Sneakers",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Grey Pair",
+          "image": "/src/assets/products/shoes/onitsuka-tiger/img1.jpg"
+        },
+        {
+          "label": "Blue Pair with Box",
+          "image": "/src/assets/products/shoes/onitsuka-tiger/img2.jpg"
+        },
+        {
+          "label": "Blue Pair Back",
+          "image": "/src/assets/products/shoes/onitsuka-tiger/img3.jpg"
+        },
+        {
+          "label": "Blue Pair Detail",
+          "image": "/src/assets/products/shoes/onitsuka-tiger/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Onitsuka Tiger Sage Green",
+      "category": "shoes",
+      "type": "Sneakers",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Back/Side Angle",
+          "image": "/src/assets/products/shoes/onitsuka-tiger-green/img1.jpg"
+        },
+        {
+          "label": "Back Details",
+          "image": "/src/assets/products/shoes/onitsuka-tiger-green/img2.jpg"
+        },
+        {
+          "label": "Side View",
+          "image": "/src/assets/products/shoes/onitsuka-tiger-green/img3.jpg"
+        },
+        {
+          "label": "Front/Side Angle",
+          "image": "/src/assets/products/shoes/onitsuka-tiger-green/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Onitsuka Tiger Yellow/Olive",
+      "category": "shoes",
+      "type": "Sneakers",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Side Angle",
+          "image": "/src/assets/products/shoes/onitsuka-tiger-yellow/img1.jpg"
+        },
+        {
+          "label": "Back Detail",
+          "image": "/src/assets/products/shoes/onitsuka-tiger-yellow/img2.jpg"
+        },
+        {
+          "label": "Sole Detail",
+          "image": "/src/assets/products/shoes/onitsuka-tiger-yellow/img3.jpg"
+        },
+        {
+          "label": "Side/Front View",
+          "image": "/src/assets/products/shoes/onitsuka-tiger-yellow/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Balenciaga x Puma Blue Sneakers",
+      "category": "shoes",
+      "type": "Sneakers",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Side Angle",
+          "image": "/src/assets/products/shoes/puma-blue/img1.jpg"
+        },
+        {
+          "label": "Back Detail",
+          "image": "/src/assets/products/shoes/puma-blue/img2.jpg"
+        },
+        {
+          "label": "Front/Side View",
+          "image": "/src/assets/products/shoes/puma-blue/img3.jpg"
+        },
+        {
+          "label": "Top View",
+          "image": "/src/assets/products/shoes/puma-blue/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Air Jordan 1 High Travis Scott",
+      "category": "shoes",
+      "type": "Sneakers",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Sole Profile",
+          "image": "/src/assets/products/shoes/jordan-travis-scott/img1.jpg"
+        },
+        {
+          "label": "Side Angle",
+          "image": "/src/assets/products/shoes/jordan-travis-scott/img2.jpg"
+        },
+        {
+          "label": "Heel Detail",
+          "image": "/src/assets/products/shoes/jordan-travis-scott/img3.jpg"
+        },
+        {
+          "label": "Side View",
+          "image": "/src/assets/products/shoes/jordan-travis-scott/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Kobe x Nike Air Force 1 Low Protro",
+      "category": "shoes",
+      "type": "Sneakers",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Main View",
+          "image": "/src/assets/products/shoes/kobe-af1-yellow/img1.jpg"
+        },
+        {
+          "label": "Side View",
+          "image": "/src/assets/products/shoes/kobe-af1-yellow/img2.jpg"
+        },
+        {
+          "label": "Heel Detail",
+          "image": "/src/assets/products/shoes/kobe-af1-yellow/img3.jpg"
+        },
+        {
+          "label": "Detail Grid",
+          "image": "/src/assets/products/shoes/kobe-af1-yellow/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "BOSS Black Chelsea Boots",
+      "category": "shoes",
+      "type": "Boots",
+      "price": "₹800",
+      "angles": [
+        {
+          "label": "Side Profile",
+          "image": "/src/assets/products/shoes/boss-black-boots/img1.jpg"
+        },
+        {
+          "label": "Handheld View",
+          "image": "/src/assets/products/shoes/boss-black-boots/img2.jpg"
+        },
+        {
+          "label": "Front/Side Pair",
+          "image": "/src/assets/products/shoes/boss-black-boots/img3.jpg"
+        },
+        {
+          "label": "Heel Logo Detail",
+          "image": "/src/assets/products/shoes/boss-black-boots/img4.jpg"
+        }
+      ]
+    }
+  ]
+}
