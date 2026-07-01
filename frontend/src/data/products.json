@@ -8,7 +8,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/monarch/front.jpg"
+          "image": "/products/monarch/front.jpg"
         },
         {
           "label": "Side",
@@ -37,7 +37,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/visionary/front.jpg"
+          "image": "/products/visionary/front.jpg"
         },
         {
           "label": "Side",
@@ -66,7 +66,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/enigma/front.jpg"
+          "image": "/products/enigma/front.jpg"
         },
         {
           "label": "Side",
@@ -95,7 +95,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/classic/front.jpg"
+          "image": "/products/classic/front.jpg"
         },
         {
           "label": "Side",
@@ -124,19 +124,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/armani/front.jpg"
+          "image": "/products/armani/front.jpg"
         },
         {
           "label": "Side",
-          "image": "/src/assets/products/armani/side.jpg"
+          "image": "/products/armani/side.jpg"
         },
         {
           "label": "3/4 View",
-          "image": "/src/assets/products/armani/angle.jpg"
+          "image": "/products/armani/angle.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/armani/detail.jpg"
+          "image": "/products/armani/detail.jpg"
         }
       ],
       "category": "eyewear"
@@ -149,19 +149,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/oakley-sport/front.png"
+          "image": "/products/oakley-sport/front.png"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/oakley-sport/detail.png"
+          "image": "/products/oakley-sport/detail.png"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/oakley-sport/model.png"
+          "image": "/products/oakley-sport/model.png"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/oakley-sport/packaging.jpg"
+          "image": "/products/oakley-sport/packaging.jpg"
         }
       ],
       "category": "eyewear"
@@ -174,19 +174,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/carrera-round/front.jpg"
+          "image": "/products/carrera-round/front.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/carrera-round/detail.jpg"
+          "image": "/products/carrera-round/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/carrera-round/model.jpg"
+          "image": "/products/carrera-round/model.jpg"
         },
         {
           "label": "Comparison",
-          "image": "/src/assets/products/carrera-round/comparison.jpg"
+          "image": "/products/carrera-round/comparison.jpg"
         }
       ],
       "category": "eyewear"
@@ -199,15 +199,15 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/lacoste-square/front.jpg"
+          "image": "/products/lacoste-square/front.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/lacoste-square/detail.jpg"
+          "image": "/products/lacoste-square/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/lacoste-square/model.png"
+          "image": "/products/lacoste-square/model.png"
         }
       ],
       "category": "eyewear"
@@ -220,19 +220,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/celine-oval/front.jpg"
+          "image": "/products/celine-oval/front.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/celine-oval/detail.jpg"
+          "image": "/products/celine-oval/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/celine-oval/model.jpg"
+          "image": "/products/celine-oval/model.jpg"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/celine-oval/packaging.jpg"
+          "image": "/products/celine-oval/packaging.jpg"
         }
       ],
       "category": "eyewear"
@@ -245,19 +245,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/marc-jacobs-geometric/front.jpg"
+          "image": "/products/marc-jacobs-geometric/front.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/marc-jacobs-geometric/detail.jpg"
+          "image": "/products/marc-jacobs-geometric/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/marc-jacobs-geometric/model.jpg"
+          "image": "/products/marc-jacobs-geometric/model.jpg"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/marc-jacobs-geometric/packaging.jpg"
+          "image": "/products/marc-jacobs-geometric/packaging.jpg"
         }
       ],
       "category": "eyewear"
@@ -270,19 +270,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/mont-blanc-frame/front.jpg"
+          "image": "/products/mont-blanc-frame/front.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/mont-blanc-frame/detail.jpg"
+          "image": "/products/mont-blanc-frame/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/mont-blanc-frame/model.jpg"
+          "image": "/products/mont-blanc-frame/model.jpg"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/mont-blanc-frame/packaging.jpg"
+          "image": "/products/mont-blanc-frame/packaging.jpg"
         }
       ],
       "category": "eyewear"
@@ -295,23 +295,23 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/prada-premium-sunglasses/front.jpg"
+          "image": "/products/prada-premium-sunglasses/front.jpg"
         },
         {
           "label": "Side",
-          "image": "/src/assets/products/prada-premium-sunglasses/side.jpg"
+          "image": "/products/prada-premium-sunglasses/side.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/prada-premium-sunglasses/detail.jpg"
+          "image": "/products/prada-premium-sunglasses/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/prada-premium-sunglasses/model.jpg"
+          "image": "/products/prada-premium-sunglasses/model.jpg"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/prada-premium-sunglasses/packaging.jpg"
+          "image": "/products/prada-premium-sunglasses/packaging.jpg"
         }
       ],
       "category": "eyewear"
@@ -324,19 +324,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/louis-vuitton-ladies/front.png"
+          "image": "/products/louis-vuitton-ladies/front.png"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/louis-vuitton-ladies/detail.png"
+          "image": "/products/louis-vuitton-ladies/detail.png"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/louis-vuitton-ladies/model.png"
+          "image": "/products/louis-vuitton-ladies/model.png"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/louis-vuitton-ladies/packaging.jpg"
+          "image": "/products/louis-vuitton-ladies/packaging.jpg"
         }
       ],
       "category": "eyewear"
@@ -349,19 +349,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/moscot-black-grey/front.jpg"
+          "image": "/products/moscot-black-grey/front.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/moscot-black-grey/detail.jpg"
+          "image": "/products/moscot-black-grey/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/moscot-black-grey/model.jpg"
+          "image": "/products/moscot-black-grey/model.jpg"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/moscot-black-grey/packaging.jpg"
+          "image": "/products/moscot-black-grey/packaging.jpg"
         }
       ],
       "category": "eyewear"
@@ -374,19 +374,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/moscot-brown-transparent/front.jpg"
+          "image": "/products/moscot-brown-transparent/front.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/moscot-brown-transparent/detail.jpg"
+          "image": "/products/moscot-brown-transparent/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/moscot-brown-transparent/model.jpg"
+          "image": "/products/moscot-brown-transparent/model.jpg"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/moscot-brown-transparent/packaging.jpg"
+          "image": "/products/moscot-brown-transparent/packaging.jpg"
         }
       ],
       "category": "eyewear"
@@ -399,15 +399,15 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/david-beckham/front.jpg"
+          "image": "/products/david-beckham/front.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/david-beckham/detail.jpg"
+          "image": "/products/david-beckham/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/david-beckham/model.png"
+          "image": "/products/david-beckham/model.png"
         }
       ],
       "category": "eyewear"
@@ -420,19 +420,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/bmw/front.jpg"
+          "image": "/products/bmw/front.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/bmw/detail.jpg"
+          "image": "/products/bmw/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/bmw/model.jpg"
+          "image": "/products/bmw/model.jpg"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/bmw/packaging.jpg"
+          "image": "/products/bmw/packaging.jpg"
         }
       ],
       "category": "eyewear"
@@ -445,19 +445,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/watches/rado/front.jpg"
+          "image": "/products/watches/rado/front.jpg"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/watches/rado/detail.jpg"
+          "image": "/products/watches/rado/detail.jpg"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/watches/rado/model.jpg"
+          "image": "/products/watches/rado/model.jpg"
         },
         {
           "label": "Color Variants",
-          "image": "/src/assets/products/watches/rado/color.jpg"
+          "image": "/products/watches/rado/color.jpg"
         }
       ],
       "category": "watches"
@@ -471,23 +471,23 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/watches/jacob-co-black/front.png"
+          "image": "/products/watches/jacob-co-black/front.png"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/watches/jacob-co-black/detail.png"
+          "image": "/products/watches/jacob-co-black/detail.png"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/watches/jacob-co-black/model.png"
+          "image": "/products/watches/jacob-co-black/model.png"
         },
         {
           "label": "Color Variant",
-          "image": "/src/assets/products/watches/jacob-co-black/color.png"
+          "image": "/products/watches/jacob-co-black/color.png"
         },
         {
           "label": "Back",
-          "image": "/src/assets/products/watches/jacob-co-black/back.png"
+          "image": "/products/watches/jacob-co-black/back.png"
         }
       ]
     },
@@ -500,15 +500,15 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/watches/jacob-co-brown/front.png"
+          "image": "/products/watches/jacob-co-brown/front.png"
         },
         {
           "label": "Back",
-          "image": "/src/assets/products/watches/jacob-co-brown/back.png"
+          "image": "/products/watches/jacob-co-brown/back.png"
         },
         {
           "label": "Belt",
-          "image": "/src/assets/products/watches/jacob-co-brown/belt.png"
+          "image": "/products/watches/jacob-co-brown/belt.png"
         }
       ]
     },
@@ -521,23 +521,23 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/watches/vacheron-constantin/front.png"
+          "image": "/products/watches/vacheron-constantin/front.png"
         },
         {
           "label": "Close Up",
-          "image": "/src/assets/products/watches/vacheron-constantin/closeup.png"
+          "image": "/products/watches/vacheron-constantin/closeup.png"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/watches/vacheron-constantin/detail.png"
+          "image": "/products/watches/vacheron-constantin/detail.png"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/watches/vacheron-constantin/model.png"
+          "image": "/products/watches/vacheron-constantin/model.png"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/watches/vacheron-constantin/packaging.png"
+          "image": "/products/watches/vacheron-constantin/packaging.png"
         }
       ]
     },
@@ -550,23 +550,23 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/watches/sevenfriday/front.png"
+          "image": "/products/watches/sevenfriday/front.png"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/watches/sevenfriday/detail.png"
+          "image": "/products/watches/sevenfriday/detail.png"
         },
         {
           "label": "Model",
-          "image": "/src/assets/products/watches/sevenfriday/model.png"
+          "image": "/products/watches/sevenfriday/model.png"
         },
         {
           "label": "Side",
-          "image": "/src/assets/products/watches/sevenfriday/side.png"
+          "image": "/products/watches/sevenfriday/side.png"
         },
         {
           "label": "Packaging",
-          "image": "/src/assets/products/watches/sevenfriday/packaging.png"
+          "image": "/products/watches/sevenfriday/packaging.png"
         }
       ]
     },
@@ -579,19 +579,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/watches/rado2/front.png"
+          "image": "/products/watches/rado2/front.png"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/watches/rado2/detail.png"
+          "image": "/products/watches/rado2/detail.png"
         },
         {
           "label": "Dial",
-          "image": "/src/assets/products/watches/rado2/dial.png"
+          "image": "/products/watches/rado2/dial.png"
         },
         {
           "label": "Side View",
-          "image": "/src/assets/products/watches/rado2/side.png"
+          "image": "/products/watches/rado2/side.png"
         }
       ]
     },
@@ -604,19 +604,19 @@
       "angles": [
         {
           "label": "Black Variant",
-          "image": "/src/assets/products/watches/bugatti/front.png"
+          "image": "/products/watches/bugatti/front.png"
         },
         {
           "label": "White Variant",
-          "image": "/src/assets/products/watches/bugatti/white.png"
+          "image": "/products/watches/bugatti/white.png"
         },
         {
           "label": "Blue Variant",
-          "image": "/src/assets/products/watches/bugatti/blue.png"
+          "image": "/products/watches/bugatti/blue.png"
         },
         {
           "label": "Rose Gold Variant",
-          "image": "/src/assets/products/watches/bugatti/rosegold.png"
+          "image": "/products/watches/bugatti/rosegold.png"
         }
       ]
     },
@@ -629,19 +629,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/watches/tissot/front.png"
+          "image": "/products/watches/tissot/front.png"
         },
         {
           "label": "Box",
-          "image": "/src/assets/products/watches/tissot/box.png"
+          "image": "/products/watches/tissot/box.png"
         },
         {
           "label": "Wrist View",
-          "image": "/src/assets/products/watches/tissot/wrist.png"
+          "image": "/products/watches/tissot/wrist.png"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/watches/tissot/detail.png"
+          "image": "/products/watches/tissot/detail.png"
         }
       ]
     },
@@ -654,19 +654,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/cartier-panthere/front.jpg"
+          "image": "/products/cartier-panthere/front.jpg"
         },
         {
           "label": "Angle",
-          "image": "/src/assets/products/cartier-panthere/angle.jpg"
+          "image": "/products/cartier-panthere/angle.jpg"
         },
         {
           "label": "Side",
-          "image": "/src/assets/products/cartier-panthere/side.jpg"
+          "image": "/products/cartier-panthere/side.jpg"
         },
         {
           "label": "Box",
-          "image": "/src/assets/products/cartier-panthere/box.jpg"
+          "image": "/products/cartier-panthere/box.jpg"
         }
       ]
     },
@@ -679,19 +679,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/cartier-panthere-silver/front.jpg"
+          "image": "/products/cartier-panthere-silver/front.jpg"
         },
         {
           "label": "Angle",
-          "image": "/src/assets/products/cartier-panthere-silver/angle.jpg"
+          "image": "/products/cartier-panthere-silver/angle.jpg"
         },
         {
           "label": "Side",
-          "image": "/src/assets/products/cartier-panthere-silver/side.jpg"
+          "image": "/products/cartier-panthere-silver/side.jpg"
         },
         {
           "label": "Box",
-          "image": "/src/assets/products/cartier-panthere-silver/box.jpg"
+          "image": "/products/cartier-panthere-silver/box.jpg"
         }
       ]
     },
@@ -704,19 +704,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/cartier-panthere-brown/front.jpg"
+          "image": "/products/cartier-panthere-brown/front.jpg"
         },
         {
           "label": "Angle",
-          "image": "/src/assets/products/cartier-panthere-brown/angle.jpg"
+          "image": "/products/cartier-panthere-brown/angle.jpg"
         },
         {
           "label": "Side",
-          "image": "/src/assets/products/cartier-panthere-brown/side.jpg"
+          "image": "/products/cartier-panthere-brown/side.jpg"
         },
         {
           "label": "Box",
-          "image": "/src/assets/products/cartier-panthere-brown/box.jpg"
+          "image": "/products/cartier-panthere-brown/box.jpg"
         }
       ]
     },
@@ -729,19 +729,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/prada-milano/front.jpg"
+          "image": "/products/prada-milano/front.jpg"
         },
         {
           "label": "Angle",
-          "image": "/src/assets/products/prada-milano/angle.jpg"
+          "image": "/products/prada-milano/angle.jpg"
         },
         {
           "label": "Side",
-          "image": "/src/assets/products/prada-milano/side.jpg"
+          "image": "/products/prada-milano/side.jpg"
         },
         {
           "label": "Box",
-          "image": "/src/assets/products/prada-milano/box.jpg"
+          "image": "/products/prada-milano/box.jpg"
         }
       ]
     },
@@ -754,19 +754,19 @@
       "angles": [
         {
           "label": "Black Front",
-          "image": "/src/assets/products/rayban-classic/front.jpg"
+          "image": "/products/rayban-classic/front.jpg"
         },
         {
           "label": "Black Angle",
-          "image": "/src/assets/products/rayban-classic/angle.jpg"
+          "image": "/products/rayban-classic/angle.jpg"
         },
         {
           "label": "Green Front",
-          "image": "/src/assets/products/rayban-classic/side.jpg"
+          "image": "/products/rayban-classic/side.jpg"
         },
         {
           "label": "Green Angle",
-          "image": "/src/assets/products/rayban-classic/box.jpg"
+          "image": "/products/rayban-classic/box.jpg"
         }
       ]
     },
@@ -779,19 +779,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/rayban-transparent/front.jpg"
+          "image": "/products/rayban-transparent/front.jpg"
         },
         {
           "label": "Angle",
-          "image": "/src/assets/products/rayban-transparent/angle.jpg"
+          "image": "/products/rayban-transparent/angle.jpg"
         },
         {
           "label": "Side",
-          "image": "/src/assets/products/rayban-transparent/side.jpg"
+          "image": "/products/rayban-transparent/side.jpg"
         },
         {
           "label": "Box",
-          "image": "/src/assets/products/rayban-transparent/box.jpg"
+          "image": "/products/rayban-transparent/box.jpg"
         }
       ]
     },
@@ -804,19 +804,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/rayban-havana/front.jpg"
+          "image": "/products/rayban-havana/front.jpg"
         },
         {
           "label": "Angle",
-          "image": "/src/assets/products/rayban-havana/angle.jpg"
+          "image": "/products/rayban-havana/angle.jpg"
         },
         {
           "label": "Side",
-          "image": "/src/assets/products/rayban-havana/side.jpg"
+          "image": "/products/rayban-havana/side.jpg"
         },
         {
           "label": "Box",
-          "image": "/src/assets/products/rayban-havana/box.jpg"
+          "image": "/products/rayban-havana/box.jpg"
         }
       ]
     },
@@ -829,7 +829,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/lv-afternoon-swim/front.jpg"
+          "image": "/products/perfumes/lv-afternoon-swim/front.jpg"
         }
       ]
     },
@@ -842,7 +842,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/lv-pacific-chill/front.jpg"
+          "image": "/products/perfumes/lv-pacific-chill/front.jpg"
         }
       ]
     },
@@ -855,7 +855,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/lv-ombre-nomade/front.jpg"
+          "image": "/products/perfumes/lv-ombre-nomade/front.jpg"
         }
       ]
     },
@@ -868,7 +868,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/lv-pur-oud/front.jpg"
+          "image": "/products/perfumes/lv-pur-oud/front.jpg"
         }
       ]
     },
@@ -881,7 +881,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/tiziana-terenzi-telea/front.jpg"
+          "image": "/products/perfumes/tiziana-terenzi-telea/front.jpg"
         }
       ]
     },
@@ -894,7 +894,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/tiziana-terenzi-orza/front.jpg"
+          "image": "/products/perfumes/tiziana-terenzi-orza/front.jpg"
         }
       ]
     },
@@ -907,7 +907,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/tiziana-terenzi-halley/front.jpg"
+          "image": "/products/perfumes/tiziana-terenzi-halley/front.jpg"
         }
       ]
     },
@@ -920,7 +920,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/tiziana-terenzi-hale-bopp/front.jpg"
+          "image": "/products/perfumes/tiziana-terenzi-hale-bopp/front.jpg"
         }
       ]
     },
@@ -933,7 +933,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/initio-oud-for-greatness/front.jpg"
+          "image": "/products/perfumes/initio-oud-for-greatness/front.jpg"
         }
       ]
     },
@@ -946,7 +946,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/bdk-citrus-riviera/front.jpg"
+          "image": "/products/perfumes/bdk-citrus-riviera/front.jpg"
         }
       ]
     },
@@ -959,7 +959,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/amouage-reasons/front.jpg"
+          "image": "/products/perfumes/amouage-reasons/front.jpg"
         }
       ]
     },
@@ -972,7 +972,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/clive-christian-no1/front.jpg"
+          "image": "/products/perfumes/clive-christian-no1/front.jpg"
         }
       ]
     },
@@ -985,7 +985,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/amouage-lustre/front.jpg"
+          "image": "/products/perfumes/amouage-lustre/front.jpg"
         }
       ]
     },
@@ -998,7 +998,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/michael-kors-sexy-ruby/front.jpg"
+          "image": "/products/perfumes/michael-kors-sexy-ruby/front.jpg"
         }
       ]
     },
@@ -1011,7 +1011,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/clive-christian-x/front.jpg"
+          "image": "/products/perfumes/clive-christian-x/front.jpg"
         }
       ]
     },
@@ -1024,7 +1024,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/roja-elysium/front.jpg"
+          "image": "/products/perfumes/roja-elysium/front.jpg"
         }
       ]
     },
@@ -1037,7 +1037,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/clive-christian-1872/front.jpg"
+          "image": "/products/perfumes/clive-christian-1872/front.jpg"
         }
       ]
     },
@@ -1050,7 +1050,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/amouage-interlude/front.jpg"
+          "image": "/products/perfumes/amouage-interlude/front.jpg"
         }
       ]
     },
@@ -1063,7 +1063,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/amouage-outlands/front.jpg"
+          "image": "/products/perfumes/amouage-outlands/front.jpg"
         }
       ]
     },
@@ -1076,7 +1076,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/bdk-tabac-rose/front.jpg"
+          "image": "/products/perfumes/bdk-tabac-rose/front.jpg"
         }
       ]
     },
@@ -1089,7 +1089,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/kajal-dahab/front.jpg"
+          "image": "/products/perfumes/kajal-dahab/front.jpg"
         }
       ]
     },
@@ -1102,7 +1102,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/liquides-imaginaires-bete-humaine/front.jpg"
+          "image": "/products/perfumes/liquides-imaginaires-bete-humaine/front.jpg"
         }
       ]
     },
@@ -1115,7 +1115,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/roja-lakme/front.jpg"
+          "image": "/products/perfumes/roja-lakme/front.jpg"
         }
       ]
     },
@@ -1128,7 +1128,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/pdm-cassili/front.jpg"
+          "image": "/products/perfumes/pdm-cassili/front.jpg"
         }
       ]
     },
@@ -1141,7 +1141,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/kayali-burning-cherry/front.jpg"
+          "image": "/products/perfumes/kayali-burning-cherry/front.jpg"
         }
       ]
     },
@@ -1154,7 +1154,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/nishane-karagoz/front.jpg"
+          "image": "/products/perfumes/nishane-karagoz/front.jpg"
         }
       ]
     },
@@ -1167,7 +1167,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/nishane-vain-naive/front.jpg"
+          "image": "/products/perfumes/nishane-vain-naive/front.jpg"
         }
       ]
     },
@@ -1180,7 +1180,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/pdm-pegasus/front.jpg"
+          "image": "/products/perfumes/pdm-pegasus/front.jpg"
         }
       ]
     },
@@ -1193,7 +1193,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/pdm-nisean/front.jpg"
+          "image": "/products/perfumes/pdm-nisean/front.jpg"
         }
       ]
     },
@@ -1206,7 +1206,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/nishane-favonius/front.jpg"
+          "image": "/products/perfumes/nishane-favonius/front.jpg"
         }
       ]
     },
@@ -1219,7 +1219,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/kayali-tobacco-oud/front.jpg"
+          "image": "/products/perfumes/kayali-tobacco-oud/front.jpg"
         }
       ]
     },
@@ -1232,7 +1232,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/nishane-afrika-olifant/front.jpg"
+          "image": "/products/perfumes/nishane-afrika-olifant/front.jpg"
         }
       ]
     },
@@ -1245,7 +1245,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/pdm-oriana/front.jpg"
+          "image": "/products/perfumes/pdm-oriana/front.jpg"
         }
       ]
     },
@@ -1258,7 +1258,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/nishane-ege/front.png"
+          "image": "/products/perfumes/nishane-ege/front.png"
         }
       ]
     },
@@ -1271,7 +1271,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/pdm-greenley/front.png"
+          "image": "/products/perfumes/pdm-greenley/front.png"
         }
       ]
     },
@@ -1284,7 +1284,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/nishane-zenne/front.png"
+          "image": "/products/perfumes/nishane-zenne/front.png"
         }
       ]
     },
@@ -1297,7 +1297,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/nishane-nanshe/front.png"
+          "image": "/products/perfumes/nishane-nanshe/front.png"
         }
       ]
     },
@@ -1310,7 +1310,7 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/perfumes/pdm-haltane/front.png"
+          "image": "/products/perfumes/pdm-haltane/front.png"
         }
       ]
     },
@@ -1323,19 +1323,19 @@
       "angles": [
         {
           "label": "Front",
-          "image": "/src/assets/products/christian-dior-rectangular/front.png"
+          "image": "/products/christian-dior-rectangular/front.png"
         },
         {
           "label": "Detail",
-          "image": "/src/assets/products/christian-dior-rectangular/detail.png"
+          "image": "/products/christian-dior-rectangular/detail.png"
         },
         {
           "label": "Side",
-          "image": "/src/assets/products/christian-dior-rectangular/side.png"
+          "image": "/products/christian-dior-rectangular/side.png"
         },
         {
           "label": "Box",
-          "image": "/src/assets/products/christian-dior-rectangular/box.png"
+          "image": "/products/christian-dior-rectangular/box.png"
         }
       ]
     },
@@ -1348,23 +1348,23 @@
       "angles": [
         {
           "label": "Style 1",
-          "image": "/src/assets/products/shoes/birkenstock-black/img1.jpg"
+          "image": "/products/shoes/birkenstock-black/img1.jpg"
         },
         {
           "label": "Style 2",
-          "image": "/src/assets/products/shoes/birkenstock-black/img2.jpg"
+          "image": "/products/shoes/birkenstock-black/img2.jpg"
         },
         {
           "label": "Style 3",
-          "image": "/src/assets/products/shoes/birkenstock-black/img3.jpg"
+          "image": "/products/shoes/birkenstock-black/img3.jpg"
         },
         {
           "label": "Style 4",
-          "image": "/src/assets/products/shoes/birkenstock-black/img4.jpg"
+          "image": "/products/shoes/birkenstock-black/img4.jpg"
         },
         {
           "label": "Group",
-          "image": "/src/assets/products/shoes/birkenstock-black/img5.jpg"
+          "image": "/products/shoes/birkenstock-black/img5.jpg"
         }
       ]
     },
@@ -1377,19 +1377,19 @@
       "angles": [
         {
           "label": "Black Detail",
-          "image": "/src/assets/products/shoes/davik-sandals/img1.jpg"
+          "image": "/products/shoes/davik-sandals/img1.jpg"
         },
         {
           "label": "Blue Detail",
-          "image": "/src/assets/products/shoes/davik-sandals/img2.jpg"
+          "image": "/products/shoes/davik-sandals/img2.jpg"
         },
         {
           "label": "Black Front",
-          "image": "/src/assets/products/shoes/davik-sandals/img3.jpg"
+          "image": "/products/shoes/davik-sandals/img3.jpg"
         },
         {
           "label": "Blue Front",
-          "image": "/src/assets/products/shoes/davik-sandals/img4.jpg"
+          "image": "/products/shoes/davik-sandals/img4.jpg"
         }
       ]
     },
@@ -1402,19 +1402,19 @@
       "angles": [
         {
           "label": "Box",
-          "image": "/src/assets/products/shoes/gucci-loafers/img1.jpg"
+          "image": "/products/shoes/gucci-loafers/img1.jpg"
         },
         {
           "label": "Black & Brown Group",
-          "image": "/src/assets/products/shoes/gucci-loafers/img2.jpg"
+          "image": "/products/shoes/gucci-loafers/img2.jpg"
         },
         {
           "label": "Brown Pair",
-          "image": "/src/assets/products/shoes/gucci-loafers/img3.jpg"
+          "image": "/products/shoes/gucci-loafers/img3.jpg"
         },
         {
           "label": "Black Pair",
-          "image": "/src/assets/products/shoes/gucci-loafers/img4.jpg"
+          "image": "/products/shoes/gucci-loafers/img4.jpg"
         }
       ]
     },
@@ -1427,19 +1427,19 @@
       "angles": [
         {
           "label": "Brown Pair",
-          "image": "/src/assets/products/shoes/loro-piana/img1.jpg"
+          "image": "/products/shoes/loro-piana/img1.jpg"
         },
         {
           "label": "Black Pair",
-          "image": "/src/assets/products/shoes/loro-piana/img2.jpg"
+          "image": "/products/shoes/loro-piana/img2.jpg"
         },
         {
           "label": "Olive/Brown Pair",
-          "image": "/src/assets/products/shoes/loro-piana/img3.jpg"
+          "image": "/products/shoes/loro-piana/img3.jpg"
         },
         {
           "label": "Box",
-          "image": "/src/assets/products/shoes/loro-piana/img4.jpg"
+          "image": "/products/shoes/loro-piana/img4.jpg"
         }
       ]
     },
@@ -1452,11 +1452,11 @@
       "angles": [
         {
           "label": "Black Style",
-          "image": "/src/assets/products/shoes/nike-zoom/img1.jpg"
+          "image": "/products/shoes/nike-zoom/img1.jpg"
         },
         {
           "label": "Teal/White Style",
-          "image": "/src/assets/products/shoes/nike-zoom/img2.jpg"
+          "image": "/products/shoes/nike-zoom/img2.jpg"
         }
       ]
     },
@@ -1469,19 +1469,19 @@
       "angles": [
         {
           "label": "Grey Pair",
-          "image": "/src/assets/products/shoes/onitsuka-tiger/img1.jpg"
+          "image": "/products/shoes/onitsuka-tiger/img1.jpg"
         },
         {
           "label": "Blue Pair with Box",
-          "image": "/src/assets/products/shoes/onitsuka-tiger/img2.jpg"
+          "image": "/products/shoes/onitsuka-tiger/img2.jpg"
         },
         {
           "label": "Blue Pair Back",
-          "image": "/src/assets/products/shoes/onitsuka-tiger/img3.jpg"
+          "image": "/products/shoes/onitsuka-tiger/img3.jpg"
         },
         {
           "label": "Blue Pair Detail",
-          "image": "/src/assets/products/shoes/onitsuka-tiger/img4.jpg"
+          "image": "/products/shoes/onitsuka-tiger/img4.jpg"
         }
       ]
     },
@@ -1494,19 +1494,19 @@
       "angles": [
         {
           "label": "Back/Side Angle",
-          "image": "/src/assets/products/shoes/onitsuka-tiger-green/img1.jpg"
+          "image": "/products/shoes/onitsuka-tiger-green/img1.jpg"
         },
         {
           "label": "Back Details",
-          "image": "/src/assets/products/shoes/onitsuka-tiger-green/img2.jpg"
+          "image": "/products/shoes/onitsuka-tiger-green/img2.jpg"
         },
         {
           "label": "Side View",
-          "image": "/src/assets/products/shoes/onitsuka-tiger-green/img3.jpg"
+          "image": "/products/shoes/onitsuka-tiger-green/img3.jpg"
         },
         {
           "label": "Front/Side Angle",
-          "image": "/src/assets/products/shoes/onitsuka-tiger-green/img4.jpg"
+          "image": "/products/shoes/onitsuka-tiger-green/img4.jpg"
         }
       ]
     },
@@ -1519,19 +1519,19 @@
       "angles": [
         {
           "label": "Side Angle",
-          "image": "/src/assets/products/shoes/onitsuka-tiger-yellow/img1.jpg"
+          "image": "/products/shoes/onitsuka-tiger-yellow/img1.jpg"
         },
         {
           "label": "Back Detail",
-          "image": "/src/assets/products/shoes/onitsuka-tiger-yellow/img2.jpg"
+          "image": "/products/shoes/onitsuka-tiger-yellow/img2.jpg"
         },
         {
           "label": "Sole Detail",
-          "image": "/src/assets/products/shoes/onitsuka-tiger-yellow/img3.jpg"
+          "image": "/products/shoes/onitsuka-tiger-yellow/img3.jpg"
         },
         {
           "label": "Side/Front View",
-          "image": "/src/assets/products/shoes/onitsuka-tiger-yellow/img4.jpg"
+          "image": "/products/shoes/onitsuka-tiger-yellow/img4.jpg"
         }
       ]
     },
@@ -1544,19 +1544,19 @@
       "angles": [
         {
           "label": "Side Angle",
-          "image": "/src/assets/products/shoes/puma-blue/img1.jpg"
+          "image": "/products/shoes/puma-blue/img1.jpg"
         },
         {
           "label": "Back Detail",
-          "image": "/src/assets/products/shoes/puma-blue/img2.jpg"
+          "image": "/products/shoes/puma-blue/img2.jpg"
         },
         {
           "label": "Front/Side View",
-          "image": "/src/assets/products/shoes/puma-blue/img3.jpg"
+          "image": "/products/shoes/puma-blue/img3.jpg"
         },
         {
           "label": "Top View",
-          "image": "/src/assets/products/shoes/puma-blue/img4.jpg"
+          "image": "/products/shoes/puma-blue/img4.jpg"
         }
       ]
     },
@@ -1569,19 +1569,19 @@
       "angles": [
         {
           "label": "Sole Profile",
-          "image": "/src/assets/products/shoes/jordan-travis-scott/img1.jpg"
+          "image": "/products/shoes/jordan-travis-scott/img1.jpg"
         },
         {
           "label": "Side Angle",
-          "image": "/src/assets/products/shoes/jordan-travis-scott/img2.jpg"
+          "image": "/products/shoes/jordan-travis-scott/img2.jpg"
         },
         {
           "label": "Heel Detail",
-          "image": "/src/assets/products/shoes/jordan-travis-scott/img3.jpg"
+          "image": "/products/shoes/jordan-travis-scott/img3.jpg"
         },
         {
           "label": "Side View",
-          "image": "/src/assets/products/shoes/jordan-travis-scott/img4.jpg"
+          "image": "/products/shoes/jordan-travis-scott/img4.jpg"
         }
       ]
     },
@@ -1594,19 +1594,19 @@
       "angles": [
         {
           "label": "Main View",
-          "image": "/src/assets/products/shoes/kobe-af1-yellow/img1.jpg"
+          "image": "/products/shoes/kobe-af1-yellow/img1.jpg"
         },
         {
           "label": "Side View",
-          "image": "/src/assets/products/shoes/kobe-af1-yellow/img2.jpg"
+          "image": "/products/shoes/kobe-af1-yellow/img2.jpg"
         },
         {
           "label": "Heel Detail",
-          "image": "/src/assets/products/shoes/kobe-af1-yellow/img3.jpg"
+          "image": "/products/shoes/kobe-af1-yellow/img3.jpg"
         },
         {
           "label": "Detail Grid",
-          "image": "/src/assets/products/shoes/kobe-af1-yellow/img4.jpg"
+          "image": "/products/shoes/kobe-af1-yellow/img4.jpg"
         }
       ]
     },
@@ -1619,19 +1619,19 @@
       "angles": [
         {
           "label": "Side Profile",
-          "image": "/src/assets/products/shoes/boss-black-boots/img1.jpg"
+          "image": "/products/shoes/boss-black-boots/img1.jpg"
         },
         {
           "label": "Handheld View",
-          "image": "/src/assets/products/shoes/boss-black-boots/img2.jpg"
+          "image": "/products/shoes/boss-black-boots/img2.jpg"
         },
         {
           "label": "Front/Side Pair",
-          "image": "/src/assets/products/shoes/boss-black-boots/img3.jpg"
+          "image": "/products/shoes/boss-black-boots/img3.jpg"
         },
         {
           "label": "Heel Logo Detail",
-          "image": "/src/assets/products/shoes/boss-black-boots/img4.jpg"
+          "image": "/products/shoes/boss-black-boots/img4.jpg"
         }
       ]
     }

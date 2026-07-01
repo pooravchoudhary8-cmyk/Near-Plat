@@ -14,16 +14,16 @@ import { Helmet } from "react-helmet-async";
 import { toast } from 'sonner';
 
 // Static imports for product front images (Vite bundles these correctly at build time)
-import monarchFront from "@/assets/products/monarch/front.jpg";
-import visionaryFront from "@/assets/products/visionary/front.jpg";
-import enigmaFront from "@/assets/products/enigma/front.jpg";
-import classicFront from "@/assets/products/classic/front.jpg";
+const monarchFront = "/products/monarch/front.jpg";
+const visionaryFront = "/products/visionary/front.jpg";
+const enigmaFront = "/products/enigma/front.jpg";
+const classicFront = "/products/classic/front.jpg";
 
 // Static imports for Armani (all angles are local files)
-import armaniFront from "@/assets/products/armani/front.jpg";
-import armaniSide from "@/assets/products/armani/side.jpg";
-import armaniAngle from "@/assets/products/armani/angle.jpg";
-import armaniDetail from "@/assets/products/armani/detail.jpg";
+const armaniFront = "/products/armani/front.jpg";
+const armaniSide = "/products/armani/side.jpg";
+const armaniAngle = "/products/armani/angle.jpg";
+const armaniDetail = "/products/armani/detail.jpg";
 
 const productAngleImages = {
   // Products 1–4: only the Front image (index 0) is a local asset
