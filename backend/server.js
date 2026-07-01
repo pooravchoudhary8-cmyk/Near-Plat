@@ -6,8 +6,8 @@ import morgan from 'morgan';
 import cookieParser from 'cookie-parser';
 import compression from 'compression';
 import rateLimit from 'express-rate-limit';
-import mongoSanitize from 'express-mongo-sanitize';
-import xss from 'xss-clean';
+//import mongoSanitize from 'express-mongo-sanitize';
+//import xss from 'xss-clean';
 import connectDB from './config/db.js';
 import { notFound, errorHandler } from './middleware/errorMiddleware.js';
 import authRoutes from './routes/authRoutes.js';
@@ -43,10 +43,10 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 // Data sanitization against NoSQL query injection
-app.use(mongoSanitize());
+//app.use(mongoSanitize());
 
 // Data sanitization against XSS
-app.use(xss());
+//app.use(xss());
 
 // CORS Configuration
 // Optimized for Single URL deployment
