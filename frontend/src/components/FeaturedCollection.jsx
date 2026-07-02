@@ -201,7 +201,7 @@ const FeaturedCollection = ({ selectedCategory }) => {
     }
 
     return (
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div className="grid grid-cols-3 md:grid-cols-2 lg:grid-cols-4 gap-1.5 md:gap-6">
         <AnimatePresence mode="popLayout">
           {prods.map((product, index) => (
             <motion.div
@@ -216,7 +216,7 @@ const FeaturedCollection = ({ selectedCategory }) => {
               className="group h-full"
             >
               <div className="relative overflow-hidden bg-card border border-border hover-gold-glow transition-all duration-500 h-full flex flex-col">
-                <div className="aspect-square overflow-hidden shrink-0 bg-white/5 flex items-center justify-center p-4">
+                <div className="aspect-square overflow-hidden shrink-0 bg-white/5 flex items-center justify-center p-1 md:p-4">
                   <img
                     src={product.images && product.images.length > 0 ? product.images[0].url : (productFrontImages[product.id] ?? product.angles?.[0]?.image)}
                     alt={product.name}
@@ -226,14 +226,14 @@ const FeaturedCollection = ({ selectedCategory }) => {
                     className="w-full h-full object-contain transition-transform duration-700 group-hover:scale-110"
                   />
                 </div>
-                <div className="p-5 flex flex-col flex-grow">
-                  <p className="font-body text-xs tracking-[0.3em] uppercase text-primary mb-1">
+                <div className="p-1.5 md:p-5 flex flex-col flex-grow">
+                  <p className="font-body text-[8px] md:text-xs tracking-wider md:tracking-[0.3em] uppercase text-primary mb-0.5 md:mb-1 truncate">
                     {product.type}
                   </p>
-                  <h3 className="font-display text-xl text-foreground mb-2">
+                  <h3 className="font-display text-[10px] md:text-xl leading-tight md:leading-normal text-foreground mb-0.5 md:mb-2 truncate md:whitespace-normal">
                     {product.name}
                   </h3>
-                  <p className="font-body text-sm text-muted-foreground mt-auto">
+                  <p className="font-body text-[9px] md:text-sm text-muted-foreground mt-auto">
                     {formatPrice(product.price)}
                   </p>
                 </div>

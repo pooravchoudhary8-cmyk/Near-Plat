@@ -79,12 +79,28 @@ const Navbar = () => {
 
         {/* Mobile toggle */}
         <div className="flex items-center gap-4 md:hidden">
+          <Link to="/wishlist" className="text-foreground hover:text-primary relative">
+            <Heart size={22} />
+            {wishlist?.products?.length > 0 && (
+              <span className="absolute -top-2 -right-2 bg-primary text-primary-foreground text-[10px] w-4 h-4 flex items-center justify-center rounded-full font-bold">
+                {wishlist.products.length}
+              </span>
+            )}
+          </Link>
+          <Link to="/cart" className="text-foreground hover:text-primary relative">
+            <ShoppingCart size={22} />
+            {cart?.items?.length > 0 && (
+              <span className="absolute -top-2 -right-2 bg-primary text-primary-foreground text-[10px] w-4 h-4 flex items-center justify-center rounded-full font-bold">
+                {cart.items.reduce((a, c) => a + c.quantity, 0)}
+              </span>
+            )}
+          </Link>
           <Link to={user ? "/profile" : "/login"} className="text-foreground hover:text-primary">
-            <User size={24} />
+            <User size={22} />
           </Link>
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className="text-foreground"
+            className="text-foreground ml-1"
             aria-label="Toggle menu"
           >
             {isOpen ? <X size={24} /> : <Menu size={24} />}
